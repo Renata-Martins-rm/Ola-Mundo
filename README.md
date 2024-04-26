@@ -22,8 +22,11 @@
 # Formatação. 💠
 
 *Itálico*
+
 **Negrito** 
+
 ~~Riscado~~
+
 __*Negrito e Itálico*__
 
 ***
@@ -32,7 +35,11 @@ __*Negrito e Itálico*__
 1. Renata
 2. Silmar
 3. Débora
-   1.1 Martins
+4. Renan
+    1. Martins
+    2. Neto
+    3. Santos
+    4. Souza
 
 ***
 # Listas Demarcadas. 📃
@@ -41,6 +48,8 @@ __*Negrito e Itálico*__
 * Teste 2
 * Teste 3
    * Testando
+   * Testando 2
+   * Testando 3
 
 ***
 # Lista de Tarefas. 📑
@@ -54,7 +63,7 @@ __*Negrito e Itálico*__
 ***
 # Podemos incluir links. 🆗
 
-[Clique Aqui](https://web.dio.me/)
+[Clique Aqui para acessar o site da DIO](https://web.dio.me/)
 
 ***
 # Podemos incluir linhas de códigos. 💻
@@ -65,7 +74,7 @@ Exemplo: "Olha meu programa em python:"
 num = int(input('digite um valor:')
 if num % 2 == 0:
 de 4 espaços - print(f'O valor {num} é PAR')
-else: 
+else:
 de 4 espaços - print(f'O valor {num} é IMPAR')
 ```
 
