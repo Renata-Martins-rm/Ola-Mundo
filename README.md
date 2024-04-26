@@ -1,7 +1,7 @@
 # Olá, Mundo!
  Primeiro repositório do curso de **Git e GitHub**.
 
- Repositório criado na aula em vídeo do professor *Gustavo Guanabara*.
+ Repositório criado durante o curso de Git e GitHub na DIO.
 
 ***
 # Testando a Linguagem Markdown.
@@ -10,7 +10,9 @@
 ## Título
 ### Título
 
+***
+
 | Aulas | Resumos | Nota
 ---|---|---
-1 | Gravando alterações no repositório local | 8,5
-2 | resumindo github | 9.0
+1 | Criando o primeiro repositório | 8.5
+2 | Resumindo o Git e GitHub | 9.0
